@@ -1,7 +1,5 @@
 # What Is Kraut? #
-I thought Relish was a great idea, but when I needed to use it for a project whose spec I couldn't release, I found emptiness. (A private repo wasn't good enough)
-
-SO Kraut is a clone. Imitation is flattery, no?
+Kraut is a visual display of cucumber-driven JSON API features. Heavily influenced by Relish, currently works best with json_spec.
 
 # Use #
 Its a formatter.  Install the gem, include it in your Gemfile if appropriate, and use it with:
